@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    padding: 50px;
+}
+
+main{
+    padding: 100px;
+    border-top: 150px;
+}
+
+.Hobbies{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.Goals {
+    padding-top: 50px;
+}
